@@ -26,6 +26,9 @@
     NSArray *ary = @[tr,sd];
 }
 
+-(void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event{
+    NSLog(@"wo be click");
+}
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
