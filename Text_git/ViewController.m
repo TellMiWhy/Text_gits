@@ -20,6 +20,8 @@
     NSString *string = @"12";
     
     NSLog(@"str - %@",string);
+    
+    NSString *tr = @"3";
 }
 
 
