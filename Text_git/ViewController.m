@@ -22,6 +22,8 @@
     NSLog(@"str - %@",string);
     
     NSString *tr = @"3";
+    NSString *sd = @"shdaohdasinlansk";
+    NSArray *ary = @[tr,sd];
 }
 
 -(void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event{
