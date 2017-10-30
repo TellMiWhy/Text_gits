@@ -13,7 +13,7 @@
 - (void)awakeFromNib {
     [super awakeFromNib];
     // Initialization code
-    
+    self.tipLabel.text = @"123";
 }
 
 - (void)setSelected:(BOOL)selected animated:(BOOL)animated {
