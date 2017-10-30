@@ -27,7 +27,7 @@
 }
 
 -(void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event{
-    NSLog(@"wo be click");
+    
 }
 
 - (void)didReceiveMemoryWarning {
